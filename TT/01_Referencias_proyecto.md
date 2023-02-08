@@ -10,7 +10,11 @@
 
 ## Subtemas 
 1. Detección y prevención de ataques en sistemas inteligentes.
-2. Protección de datos sensibles en la nube.
-3. Evaluación de la seguridad en sistemas de Internet de las cosas (IoT).
-4. Criptografía y seguridad en la transmisión de datos.
-5. Desarrollo de métodos de autenticación y autorización seguros en sistemas inteligentes.
+   + Snort Open Source como detección de intrusos para la seguridad de la infraestructura de red
+      > https://www.redalyc.org/journal/3783/378369292004/
+   + Retos para la regulación jurídica de la Inteligencia Artificial en el ámbito de la Ciberseguridad
+      > https://www.redalyc.org/journal/2932/293270311002/
+3. Protección de datos sensibles en la nube.
+4. Evaluación de la seguridad en sistemas de Internet de las cosas (IoT).
+5. Criptografía y seguridad en la transmisión de datos.
+6. Desarrollo de métodos de autenticación y autorización seguros en sistemas inteligentes.
