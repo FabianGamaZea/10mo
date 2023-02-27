@@ -57,7 +57,7 @@ class _minimoScreenState extends State<minimoScreen> {
         child: const Icon(Icons.subdirectory_arrow_right_outlined),
         onPressed: () {
           setState(() {
-            print(myText);
+            //print(myText);
           });
 
          },
